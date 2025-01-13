@@ -1,8 +1,9 @@
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png"/>
 </p>
-<h1> Description </h1>
+<h1> Brief Project Description </h1>
 In this project, I configured a ticketing system from scratch and set up various elements including roles, departments, teams, agents, users, SLA, and help topics. I then began to simulate a ticketing workflow involving claiming tickets, assigning them as a client, working on the issue, and closing the ticket, ensuring efficient and structured ticket management.
+<br> Other Projects/Sequels: [Post-Installation Configuration](https://github.com/LlessReal/post-install-config) , [Ticket Lifecycle Examples](https://github.com/LlessReal/ticket-lifecycle)
 
 <h1> How to Install osTicket </h1>
 This is an easy guide to installing a help desk ticketing system called osTicket.<br/>
